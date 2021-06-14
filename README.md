@@ -1,11 +1,8 @@
 # learn_c_and_cpp
-Learn c and cpp language. I provide some random exercises when I am learning the cpp.  
+I am following [learncpp](www.learncpp.com) to learn c and cpp language.  
 
 ## Plan 
-- [ ] Read C++ Primer word by word (30 mins every two days!)
-- [ ] Read SICP book word by work (30 mins every two days!)
-- [ ] Record video everyday 
-- [ ] 
+- [ ] write a summary of c++ primary 
 
 ## Resources
 1. reference: https://en.cppreference.com/
@@ -15,7 +12,7 @@ Learn c and cpp language. I provide some random exercises when I am learning the
 
 ## Dairy
 -----------------------
-| date       | Content               | blog | recording |
-| ---------- | --------------------- | ---- | --------- |
-| 2021/05/06 | C++ Primer: 1.1 - 1.3 |      |           |
+| date       | Section               | Content                                                      |      |
+| ---------- | --------------------- | ------------------------------------------------------------ | ---- |
+| 2021/05/06 | C++ Primer: 1.1 - 1.3 | 1.1 A return value of 0 indicates success. A nonzero return has a meaning that is defined by the system. 1.2 Using Names from the Standard Library, `std::cin` 1.3 two kinds of comments cannot be nested |      |
 

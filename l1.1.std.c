@@ -12,19 +12,36 @@
 
  */
 
-#include <stdio.h>
+// #include <stdio.h>
 
-int main(){
-	int n;
-	while (scanf("%d", &n) != EOF){ // EOF means the exit   
-		// int = printf, print returns the length of the string.  
-		printf("  has %d digits \n", printf("%d", n)); 
+// int main(){
+// 	int n;
+// 	while (scanf("%d", &n) != EOF){ // EOF means the exit   
+// 		// int = printf, print returns the length of the string.  
+// 		printf("  has %d digits \n", printf("%d", n)); 
 
-		// printf("  has %d digits \n  ", printf("%d", n)); 
-		// why not correct? there should be no space after \n
-	}
+// 		// printf("  has %d digits \n  ", printf("%d", n)); 
+// 		// why not correct? there should be no space after \n
+// 	}
 
-	// return 0 is important. 
-	return 0; 
+// 	// return 0 is important. 
+// 	return 0; 
+// }
+
+
+
+
+2
+3
+4
+5
+6
+7
+#include <iostream>
+ 
+int main()
+{
+	std::cout << "Hello, world!";
+	return 0;
 }
 
